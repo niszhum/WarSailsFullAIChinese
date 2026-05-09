@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Name value="战帆全量AI汉化" />
+  <Id value="WarSailsFullAIChinese" />
+  <Version value="v1.0.0" />
+  <ModuleCategory value="Singleplayer" />
+  <ModuleType value="Community" />
+  <DependedModules>
+    <DependedModule Id="Native" Optional="false" />
+    <DependedModule Id="SandBoxCore" Optional="false" />
+    <DependedModule Id="Sandbox" Optional="false" />
+    <DependedModule Id="StoryMode" Optional="false" />
+    <DependedModule Id="CustomBattle" Optional="true" />
+    <DependedModule Id="BirthAndDeath" Optional="true" />
+    <DependedModule Id="Multiplayer" Optional="true" />
+    <DependedModule Id="NavalDLC" Optional="true" />
+  </DependedModules>
+  <SubModules />
+</Module>

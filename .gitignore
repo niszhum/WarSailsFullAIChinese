@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.zip
+*.7z
+*.rar
+*.log
+Thumbs.db
+.DS_Store
+translation-data/翻译缓存/

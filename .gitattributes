@@ -1,0 +1,5 @@
+*.md text eol=lf
+*.py text eol=lf
+*.csv text eol=lf
+SubModule.xml text eol=crlf
+ModuleData/Languages/CNs/*.xml -diff
